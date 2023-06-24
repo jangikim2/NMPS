@@ -1,0 +1,4 @@
+- +pretrained_agent=aps
+- task=quadruped_run
+- snapshot_ts=1000000
+- obs_type=states
